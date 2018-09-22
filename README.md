@@ -10,4 +10,4 @@
      - **生源地**：北京
    - 院系：PKUCCME
  - 照片
-   ![avatar](homepage/photo.jpg)
+   ![avatar](photo.jpg)
